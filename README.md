@@ -1,1 +1,1 @@
-# Credit_fraud_detection
+# Credit fraud detection project
